@@ -4,6 +4,14 @@ auto_deploy: false
 admin_path: src
 webhook_url: post_publish
 sections:
+- type: directory
+  path: ''
+  label: PAGES
+  create: all
+  match: "**/*"
+  new_doc_ext: ".md"
+  templates:
+  - nnnn
 - type: document
   path: aaaa
   label: qqqq
