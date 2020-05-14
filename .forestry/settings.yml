@@ -3,7 +3,11 @@ new_page_extension: md
 auto_deploy: false
 admin_path: src
 webhook_url: post_publish
-sections: 
+sections:
+- type: document
+  path: aaaa
+  label: qqqq
+  match: "**/*"
 upload_dir: uploads
 public_path: "/uploads"
 front_matter_path: ''
