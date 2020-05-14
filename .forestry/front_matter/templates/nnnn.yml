@@ -1,6 +1,6 @@
 ---
-label: NNNN
-hide_body: false
+label: My page
+hide_body: true
 fields:
 - name: titulo
   type: text
