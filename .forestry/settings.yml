@@ -2,7 +2,7 @@
 new_page_extension: md
 auto_deploy: false
 admin_path: src
-webhook_url: 
+webhook_url: post_publish
 sections: 
 upload_dir: uploads
 public_path: "/uploads"
