@@ -21,3 +21,8 @@ fields:
     schema:
       format: markdown
   label: Contenido
+- name: hhh
+  type: include
+  config: {}
+  template: nnnn
+  label: hhh
