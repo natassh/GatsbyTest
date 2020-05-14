@@ -9,7 +9,7 @@ sections:
   label: PAGES
   create: all
   match: "**/*"
-  new_doc_ext: ".md"
+  new_doc_ext: md
   templates:
   - nnnn
 - type: document
