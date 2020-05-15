@@ -1,4 +1,34 @@
 ---
 label: Nuevo
 hide_body: true
-fields: []
+fields:
+- name: nuevo
+  type: field_group_list
+  config:
+    min: 3
+    max: 
+    labelField: 
+  label: Nuevo
+- name: titulo
+  type: text
+  config:
+    required: true
+  label: Titulo
+- name: descripcion
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: true
+    schema:
+      format: markdown
+  label: Descripción
+- name: url
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: false
+    schema:
+      format: markdown
+  label: Url
