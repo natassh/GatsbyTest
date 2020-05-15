@@ -1,6 +1,6 @@
 ---
 titulo: Aviso legal
-descripcion: sdcfdscv
+descripcion: Nuevo aviso legalñ
 url: ''
 
 ---
