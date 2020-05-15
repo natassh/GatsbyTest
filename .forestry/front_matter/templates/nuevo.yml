@@ -26,4 +26,4 @@ fields:
       format: markdown
   label: Url
 pages:
-- src/pages/aviso legal.md
+- src/content/avido-legal.md
