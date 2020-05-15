@@ -5,7 +5,7 @@ admin_path: src
 webhook_url: post_publish
 sections:
 - type: directory
-  path: src/pages
+  path: src/content
   label: Páginas
   create: all
   match: "**/*"
