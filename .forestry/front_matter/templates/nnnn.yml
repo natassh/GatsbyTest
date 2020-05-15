@@ -1,0 +1,28 @@
+---
+label: My page
+hide_body: true
+fields:
+- name: titulo
+  type: text
+  config:
+    required: false
+  label: Titulo
+- name: image
+  type: file
+  config:
+    maxSize: 64
+  label: image
+- name: contenido
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: false
+    schema:
+      format: markdown
+  label: Contenido
+- name: hhh
+  type: include
+  config: {}
+  template: nnnn
+  label: hhh
