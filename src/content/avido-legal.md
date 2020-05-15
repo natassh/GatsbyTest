@@ -1,6 +1,6 @@
 ---
 titulo: Aviso legal
-descripcion: Nuevo aviso legalñ
+descripcion: Nuevo aviso legal
 url: ''
 
 ---
