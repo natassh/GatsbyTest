@@ -25,5 +25,3 @@ fields:
     schema:
       format: markdown
   label: Url
-pages:
-- ggg.md
