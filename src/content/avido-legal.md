@@ -1,5 +1,5 @@
 ---
-titulo: Aviso legal 2
+titulo: Aviso legal 3
 descripcion: Nuevo aviso legal
 url: ''
 
