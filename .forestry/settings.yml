@@ -7,7 +7,6 @@ sections:
 - type: document
   path: src
   label: Menu
-  match: "**/*"
 - type: directory
   path: src/content
   label: Páginas
